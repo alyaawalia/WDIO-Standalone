@@ -1,0 +1,8 @@
+web driver io adalah berjalan di node js untuk pengetesan
+browser dan mobile.
+keunggulannya = salah satunya fitur auto  bisa menunggu sebuah
+elemen muncul sebelum melakukan sebuah event seperti ngeklik web tsb.
+
+webdriver io ini bisa digabung dengan apium
+
+installasi = standalone mode = npm i webdriverio
